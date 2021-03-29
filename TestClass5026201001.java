@@ -1,5 +1,3 @@
-import com.example.ComputeMethods5026201001;
-
 public class TestClass5026201001 {
 
     public static void main(String args[]) {
