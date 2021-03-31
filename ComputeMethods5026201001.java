@@ -3,7 +3,7 @@ import java.lang.Math;
 
 public class ComputeMethods5026201001 {
     public static double fToC(double degreesF){
-        double Celc = (degreesF - 32) * ((float)5/9);
+        double Celc = (degreesF - 32) * ((double)5/9);
         return Celc;
     }
     public static double hypotenuse(int a, int b){
