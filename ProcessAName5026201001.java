@@ -11,7 +11,7 @@ public class ProcessAName5026201001 {
              String name =input.nextLine;
              String firstName = name.substring(0,1);
              String lastName = name.substring(name.indexOf(" ") + 1);
-             int nameLength = name.substring(0,name.indexOf(" ")).lenght();
+             int nameLength = name.substring(0,name.indexOf(" ")).length();
              System.out.print(nameLength);
              System.out.printf("\nYour name is: %s, %s.", lastName, firstName);
        }
