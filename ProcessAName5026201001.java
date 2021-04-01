@@ -8,7 +8,7 @@ public class ProcessAName5026201001 {
              Scanner in = new Scanner(System.in);
 
              System.out.print("Enter your name: ");
-             String name =input.nextLine;
+             String name =in.nextLine;
              String firstName = name.substring(0,1);
              String lastName = name.substring(name.indexOf(" ") + 1);
              int nameLength = name.substring(0,name.indexOf(" ")).length();
